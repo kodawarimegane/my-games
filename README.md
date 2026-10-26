@@ -14,7 +14,7 @@ Android版のダウンロードや、ブラウザ版を遊べるサイトへの�
 ## Rapid Rehearsal
 
 - **Android版**
-  https://github.com/kodawarimegane/my-games/releases/tag/RapidRehearsal
+　https://github.com/kodawarimegane/my-games/releases/tag/RapidRehearsal
 - **Web版**  
   https://unityroom.com/games/rapid_rehersal
 
