@@ -11,12 +11,12 @@ Android版のダウンロードや、ブラウザ版を遊べるサイトへの�
 - **Web版**  
   https://unityroom.com/games/rapid_ramp
 
+
 ## Rapid Rehearsal
 
-- **Android版**
-　https://github.com/kodawarimegane/my-games/releases/tag/RapidRehearsal
-- **Web版**  
-  https://unityroom.com/games/rapid_rehersal
+- [**Android版（APKダウンロード）**](https://github.com/kodawarimegane/my-games/releases/tag/rapid-rehearsal-v1.0.3)
+- [**Web版（ブラウザで遊ぶ）**](ここに現在のunityroomのURLを貼る)
+
 
 ## Android版について
 
