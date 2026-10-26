@@ -19,6 +19,14 @@ Android版のダウンロードや、ブラウザ版を遊べるサイトへの�
 - **Web版**  
   https://unityroom.com/games/rapid_rehersal
 
+## which has more?
+
+- **Android版**  
+  https://github.com/kodawarimegane/my-games/releases/tag/which_has_more
+- **Web版**  
+  https://unityroom.com/games/which_has_more
+
+
 
 ## Android版について
 
