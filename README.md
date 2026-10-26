@@ -7,7 +7,7 @@ Android版のダウンロードや、ブラウザ版を遊べるサイトへの�
 ## RAPID RAMP
 
 - **Android版**  
-  [APKダウンロードページ](https://github.com/USERNAME/my-games/releases/tag/rapid-ramp)
+  [APKダウンロードページ]([https://github.com/USERNAME/my-games/releases/tag/rapid-ramp](https://github.com/kodawarimegane/my-games/releases/tag/rapid-ramp))
 - **Web版**  
   unityroomでプレイできます。
 
