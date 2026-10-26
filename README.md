@@ -15,7 +15,7 @@ Android版のダウンロードや、ブラウザ版を遊べるサイトへの�
 
 - Android版：準備中
 - **Web版**  
-  unityroomでプレイできます。
+  https://unityroom.com/games/rapid_rehersal
 
 ## Android版について
 
