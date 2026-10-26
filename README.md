@@ -9,7 +9,7 @@ Android版のダウンロードや、ブラウザ版を遊べるサイトへの�
 - **Android版**  
   https://github.com/kodawarimegane/my-games/releases/tag/rapid-ramp
 - **Web版**  
-  unityroomでプレイできます。
+  https://unityroom.com/games/rapid_ramp
 
 ## Rapid Rehearsal
 
