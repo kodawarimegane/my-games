@@ -29,7 +29,7 @@ Android版のダウンロードや、ブラウザ版を遊べるサイトへの�
 ## TOBIRUSH!
 
 - **Android版**  
-  対応中
+  https://github.com/kodawarimegane/my-games/releases/tag/TOBIRUSH
 - **Web版**  
   https://unityroom.com/games/tobirush
 
